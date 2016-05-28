@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="10174" systemVersion="15E65" minimumToolsVersion="Automatic">
+    <entity name="Word" syncable="YES">
+        <attribute name="def" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="word" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="Wordlist" syncable="YES">
+        <relationship name="word" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Word" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Word" positionX="-353" positionY="-10" width="128" height="73"/>
+        <element name="Wordlist" positionX="-36" positionY="9" width="128" height="58"/>
+    </elements>
+</model>

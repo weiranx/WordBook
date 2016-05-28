@@ -1,0 +1,117 @@
+/* Class = "UIButton"; normalTitle = "Google"; ObjectID = "1XB-2E-4fo"; */
+"1XB-2E-4fo.normalTitle" = "Google";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "7ug-rj-WbS"; */
+"7ug-rj-WbS.placeholder" = "密码";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "9v0-4C-VTc"; */
+"9v0-4C-VTc.normalTitle" = "好的";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "A9m-cm-AnP"; */
+"A9m-cm-AnP.title" = "返回";
+
+/* Class = "UIViewController"; title = "MainViewController"; ObjectID = "Ci8-xf-KbF"; */
+"Ci8-xf-KbF.title" = "主要窗口";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "DYh-GM-h3E"; */
+"DYh-GM-h3E.text" = "🔎详细";
+
+/* Class = "UINavigationItem"; title = "Word List View"; ObjectID = "EKc-kP-Hbf"; */
+"EKc-kP-Hbf.title" = "单词表";
+
+/* Class = "UISegmentedControl"; GPx-Th-p59.segmentTitles[0] = "Chinese"; ObjectID = "GPx-Th-p59"; */
+"GPx-Th-p59.segmentTitles[0]" = "中文";
+
+/* Class = "UISegmentedControl"; GPx-Th-p59.segmentTitles[1] = "French"; ObjectID = "GPx-Th-p59"; */
+"GPx-Th-p59.segmentTitles[1]" = "法语";
+
+/* Class = "UISegmentedControl"; GPx-Th-p59.segmentTitles[2] = "Spanish"; ObjectID = "GPx-Th-p59"; */
+"GPx-Th-p59.segmentTitles[2]" = "西班牙语";
+
+/* Class = "UISegmentedControl"; GPx-Th-p59.segmentTitles[3] = "Russian"; ObjectID = "GPx-Th-p59"; */
+"GPx-Th-p59.segmentTitles[3]" = "俄罗斯语";
+
+/* Class = "UISegmentedControl"; GPx-Th-p59.segmentTitles[4] = "Japanese"; ObjectID = "GPx-Th-p59"; */
+"GPx-Th-p59.segmentTitles[4]" = "日本语";
+
+/* Class = "UILabel"; text = "Do you prefer which of the following language to be the definition?"; ObjectID = "HN7-qF-mTV"; */
+"HN7-qF-mTV.text" = "你想要下面哪种语言做单词的翻译？";
+
+/* Class = "UINavigationItem"; title = "User Info"; ObjectID = "Hec-4A-sKB"; */
+"Hec-4A-sKB.title" = "用户信息";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "JvY-pJ-LyO"; */
+"JvY-pJ-LyO.text" = "设置";
+
+/* Class = "UILabel"; text = "Quick Actions"; ObjectID = "LOZ-uo-NYl"; */
+"LOZ-uo-NYl.text" = "用户信息";
+
+/* Class = "UINavigationItem"; title = "Your Word List"; ObjectID = "LcO-6d-cYA"; */
+"LcO-6d-cYA.title" = "你的单词表";
+
+/* Class = "UIButton"; normalTitle = "System Dictionary"; ObjectID = "Nb7-LO-zPj"; */
+"Nb7-LO-zPj.normalTitle" = "系统词典";
+
+/* Class = "UILabel"; text = "Username: Weiran"; ObjectID = "OeS-PQ-t55"; */
+"OeS-PQ-t55.text" = "Username: Weiran";
+
+/* Class = "UIButton"; normalTitle = "Add To WordList"; ObjectID = "Po4-90-YLj"; */
+"Po4-90-YLj.normalTitle" = "添加到单词表";
+
+/* Class = "UITextField"; placeholder = "Username"; ObjectID = "Qye-b8-AdL"; */
+"Qye-b8-AdL.placeholder" = "用户名";
+
+/* Class = "UINavigationItem"; title = "Log in"; ObjectID = "ToB-sA-20G"; */
+"ToB-sA-20G.title" = "Log in";
+
+/* Class = "UIButton"; normalTitle = "System Dictionary"; ObjectID = "XKD-rS-fP1"; */
+"XKD-rS-fP1.normalTitle" = "系统词典";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "YPM-2P-feb"; */
+"YPM-2P-feb.text" = "标题";
+
+/* Class = "UIButton"; normalTitle = "Scan"; ObjectID = "aAg-hg-yjI"; */
+"aAg-hg-yjI.normalTitle" = "扫描";
+
+/* Class = "UIButton"; normalTitle = "My Word List"; ObjectID = "cph-b5-pod"; */
+"cph-b5-pod.normalTitle" = "我的单词表";
+
+/* Class = "UIButton"; normalTitle = "Google"; ObjectID = "d0K-LN-DxL"; */
+"d0K-LN-DxL.normalTitle" = "Google";
+
+/* Class = "UIButton"; normalTitle = "Baidu Dictionary"; ObjectID = "ha6-9c-oqV"; */
+"ha6-9c-oqV.normalTitle" = "百度词典";
+
+/* Class = "UIButton"; normalTitle = "Forget Password?"; ObjectID = "iIY-mz-YQ2"; */
+"iIY-mz-YQ2.normalTitle" = "Forget Password?";
+
+/* Class = "UIButton"; normalTitle = "Wikipedia"; ObjectID = "irb-yL-b1e"; */
+"irb-yL-b1e.normalTitle" = "维基百科";
+
+/* Class = "UIButton"; normalTitle = "Log in"; ObjectID = "lfd-uk-q4V"; */
+"lfd-uk-q4V.normalTitle" = "Log in";
+
+/* Class = "UISearchBar"; placeholder = "Search Word"; ObjectID = "mJA-d0-0jX"; */
+"mJA-d0-0jX.placeholder" = "搜索单词";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "nx9-kF-yJG"; */
+"nx9-kF-yJG.title" = "返回";
+
+/* Class = "UIButton"; normalTitle = "Baidu Dictionary"; ObjectID = "o65-aI-7wY"; */
+"o65-aI-7wY.normalTitle" = "百度词典";
+
+/* Class = "UIButton"; normalTitle = "Wikipedia"; ObjectID = "ogO-kU-SsN"; */
+"ogO-kU-SsN.normalTitle" = "维基百科";
+
+/* Class = "UILabel"; text = "Today's Task"; ObjectID = "rMh-i3-Icg"; */
+"rMh-i3-Icg.text" = "今天的任务";
+
+/* Class = "UIButton"; normalTitle = "Settings"; ObjectID = "vlK-8h-Biq"; */
+"vlK-8h-Biq.normalTitle" = "设为默认语言";
+
+/* Class = "UILabel"; text = "Allow Animation"; ObjectID = "xxs-Dp-sT1"; */
+"xxs-Dp-sT1.text" = "允许动画效果";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "zqf-7D-0o3"; */
+"zqf-7D-0o3.title" = "返回";
+

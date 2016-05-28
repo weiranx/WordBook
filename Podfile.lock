@@ -1,0 +1,16 @@
+PODS:
+  - Alamofire (3.3.1)
+  - MD5 (0.1.1)
+  - SwiftyJSON (2.3.2)
+
+DEPENDENCIES:
+  - Alamofire (~> 3.3.1)
+  - MD5 (~> 0.1.1)
+  - SwiftyJSON (~> 2.3.2)
+
+SPEC CHECKSUMS:
+  Alamofire: 369bc67b6f5ac33ded3648d7bd21c5bfb91c2ecc
+  MD5: 62e4416c91af0514c6aeeb6e6d80171f3bd48c3f
+  SwiftyJSON: 04ccea08915aa0109039157c7974cf0298da292a
+
+COCOAPODS: 0.39.0
