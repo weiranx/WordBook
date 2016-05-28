@@ -29,7 +29,7 @@ I will continue to improve this project. If you want to add feature or give me s
 ## Help Support This Project
 If you want to help me build or improve this project, just fire a pull request.
 
-## Licences - MIT
+## Licences 
 ### WordBook (This Project)
 The MIT License (MIT)
 Copyright (c) 2016 Weiran Xiong
