@@ -6,4 +6,9 @@
 //  Copyright © 2016 Weiran Xiong. All rights reserved.
 //
 
-import Foundation
+import UIKit
+
+extension MainViewController {
+
+    
+}
