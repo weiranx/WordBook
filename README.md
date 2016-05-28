@@ -11,7 +11,7 @@
 
 ## 3rd Party APIs
 This projects are possible because of the following APIs.
-- Microsoft Cognition OCR API
+- Microsoft Cognition Optical Character Recognition(OCR) API
 - Baidu Translate API
 
 ## Open Sources
